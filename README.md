@@ -140,7 +140,7 @@ string currentlyLearning =
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AdityaMishra130/AdityaMishra130/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/AdityaMishra130/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
