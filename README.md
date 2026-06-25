@@ -1,60 +1,66 @@
-<h1 align="center">Hi 👋, I'm Aditya Mishra</h1>
-<h3 align="center">🚀 Competitive Programmer | MERN Stack Developer | Aspiring Game Developer | Open Source Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;MERN+Stack+Developer;Game+Development+Enthusiast;Learning+Every+Single+Day;Building+Projects+that+Matter" />
-</p>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Mishra
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Full+Stack+MERN+Developer;Aspiring+Game+Developer;Linux+Enthusiast;Always+Learning+New+Things!" />
+
+<img src="https://komarev.com/ghpvc/?username=AdityaMishra130&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 B.Tech Student at **Lovely Professional University (LPU)**
+```cpp
+class AdityaMishra {
 
-💻 Passionate about
-- Competitive Programming
-- Full Stack Web Development
-- Game Development (Unity / Unreal Learning)
-- Problem Solving
-- System Design
+public:
 
-🌱 Currently Learning
+string role = "B.Tech Student @ LPU";
 
-- Advanced MERN Stack
-- Game Development
-- System Design
-- Backend Architecture
-- DevOps Basics
+string interests[]={
+"Competitive Programming",
+"MERN Stack",
+"Backend Development",
+"Game Development",
+"Open Source",
+"Linux"
+};
 
-🎯 2026 Goals
+string currentlyLearning =
+"System Design • Advanced MERN • Unreal Engine";
 
-- ⭐ 1800+ Codeforces
-- 🟡 Knight on LeetCode
-- 🚀 Crack top Product Companies
-- 🎮 Build Indie Games
-- 🌍 Contribute to Open Source
+};
+```
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
 
 <a href="https://github.com/AdityaMishra130">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://skillicons.dev/icons?i=stackoverflow" />
+</a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
@@ -77,137 +83,138 @@
 ### Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender"/>
+<img src="https://skillicons.dev/icons?i=unity,blender"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,npm"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🏆 GitHub Stats
 
-## 🕵️ Indian Homicide Bureau
-> MERN Stack Crime Investigation Portal
+<div align="center">
 
-- Authentication
-- Role Based Access
-- 2FA
-- Crime Database
-- Investigation Dashboard
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaMishra130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMishra130&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 💼 Employee Management System
-
-Angular + Spring Boot + MySQL
-
-✔ CRUD Operations
-
-✔ Authentication
-
-✔ Dashboard
-
-✔ REST APIs
-
----
-
-## 🌐 Portfolio Website
-
-Modern Portfolio built using
-
-React
-
-TailwindCSS
-
-Responsive Design
-
-Animations
-
----
-
-## 🎮 Game Development Projects
-
-- FPS Prototype
-- Puzzle Game
-- 2D Platformer
-- Unity Experiments
-
-More Coming Soon...
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaMishra130&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMishra130&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=AdityaMishra130&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaMishra130&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMishra130&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🧠 Competitive Programming
+# 🏅 GitHub Trophies
 
-### Platforms
+<div align="center">
 
-🏆 LeetCode
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaMishra130&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-🏆 Codeforces
-
-🏆 CodeChef
-
-🏆 HackerRank
+</div>
 
 ---
 
-# 💡 Quote
+# 🐍 Contribution Snake
 
-> "Discipline beats Motivation."
+<div align="center">
 
----
+<img src="https://raw.githubusercontent.com/AdityaMishra130/AdityaMishra130/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AdityaMishra130&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+# 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Poppins&ext=contest"/>
+</a>
+
+</div>
+
+---
+
+# ⚔️ Codeforces
+
+<div align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🕵️ Indian Homicide Bureau | MERN-based Crime Investigation Platform |
+| 💼 Employee Management System | Angular + Spring Boot + MySQL |
+| 🌐 Portfolio Website | React + Tailwind Portfolio |
+| 🎮 Game Development | Unity Projects & Experiments |
+| 📊 DSA Repository | Competitive Programming Solutions |
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ Reach **1800+ Codeforces**
+- 💛 Become **LeetCode Knight**
+- 🚀 Master MERN Stack
+- 🎮 Publish an Indie Game
+- 🌍 Contribute to Open Source
+- 💼 Land a Product-Based Company Role
+
+---
+
+# 📊 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+C++          █████████████░░░░░░░░░ 55%
+JavaScript   ████████░░░░░░░░░░░░░░ 25%
+Java         ████░░░░░░░░░░░░░░░░░░ 10%
+Python       ██░░░░░░░░░░░░░░░░░░░░ 5%
+Others       ██░░░░░░░░░░░░░░░░░░░░ 5%
+```
+<!--END_SECTION:waka-->
+
+---
+
+# 💭 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
+
+</div>
