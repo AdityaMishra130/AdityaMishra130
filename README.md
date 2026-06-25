@@ -44,15 +44,15 @@ string currentlyLearning =
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/adityamishra1977/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:meethemis2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/DexterMoser">
 <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 
@@ -150,8 +150,8 @@ string currentlyLearning =
 
 <div align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Poppins&ext=contest"/>
+<a href="https://leetcode.com/DexterMoser">
+<img src="https://leetcard.jacoblin.cool/DexterMoser?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
 </div>
@@ -162,7 +162,7 @@ string currentlyLearning =
 
 <div align="center">
 
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=isaacSirko"/>
 
 </div>
 
