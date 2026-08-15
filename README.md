@@ -2,25 +2,30 @@
 
 # 👋 Hi, I'm Aditya Mishra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Full+Stack+MERN+Developer;Backend+Developer;Aspiring+Game+Developer;Linux+Enthusiast;Always+Building+Something!" />
+### 💻 Competitive Programmer • Full Stack Developer • Aspiring Game Developer
 
-<img src="https://komarev.com/ghpvc/?username=AdityaMishra130&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-<br><br>
-
+<p>
 <a href="https://github.com/AdityaMishra130">
-<img src="https://img.shields.io/github/followers/AdityaMishra130?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-AdityaMishra130-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/adityamishra1977/">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/DexterMoser">
+<img src="https://img.shields.io/badge/LeetCode-DexterMoser-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="mailto:meethemis2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-<a href="https://github.com/AdityaMishra130?tab=repositories">
-<img src="https://img.shields.io/github/stars/AdityaMishra130?affiliations=OWNER&style=for-the-badge&logo=github" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=AdityaMishra130&label=Profile%20Views&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 About Me
 
 ```cpp
 class AdityaMishra {
@@ -46,7 +51,7 @@ public:
 };
 ```
 
-I'm a developer who enjoys solving problems, building full-stack applications, exploring backend systems, and experimenting with game development.
+I'm a developer who enjoys solving problems, understanding the patterns behind them, and turning ideas into working products.
 
 Currently focused on:
 
@@ -59,119 +64,101 @@ Currently focused on:
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/AdityaMishra130">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adityamishra1977/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="mailto:meethemis2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<a href="https://leetcode.com/DexterMoser">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
-</a>
-
-</p>
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### 🎮 Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,blender" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker,npm,vercel" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🕵️ Indian Homicide Bureau
 
-### 🕵️ Indian Homicide Bureau
+**Crime Investigation & Case Management Platform**
 
-Crime Investigation & Case Management Platform.
+A full-stack platform designed for managing crime investigations, cases, evidence and investigative workflows.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+**Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Tailwind CSS • REST APIs
 
-<a href="https://github.com/AdityaMishra130">View Project →</a>
+---
+## 🌐 Personal Portfolio
 
-</td>
+**Aditya Mishra — Developer Portfolio**
 
-<td width="50%">
+A modern portfolio showcasing my development journey, technical skills, projects, certifications, experience, and achievements.
 
-### 🤝 CollaborateX
+**Tech:** React.js • Tailwind CSS • JavaScript • Vercel
 
-Real-time workplace collaboration platform designed for modern teams.
+🔗 **[Main Portfolio →](https://cv-cfot8s0u3-adis-projects-5a662b5a.vercel.app/)**
+🔗 **[Gamer Portfolio →](https://aditya-mishra-portfolio-700592618419.asia-southeast1.run.app/)**
+---
 
-**Tech:** React • Node.js • Express • MongoDB • WebSocket • JWT
+## 👨‍💼 Employee Management System
 
-<a href="https://github.com/AdityaMishra130">View Project →</a>
+**Full-Stack Employee Management Application**
 
-</td>
-</tr>
+A management system for handling employee records and administrative operations.
 
-<tr>
-<td width="50%">
+**Stack:** Angular • Spring Boot • MySQL
 
-### 👨‍💼 Employee Management System
+---
 
-Full-stack employee management application.
+## 🎮 Game Development
 
-**Tech:** Angular • Spring Boot • MySQL
+Experiments and projects focused on gameplay mechanics, systems, level design and interactive experiences.
 
-<a href="https://github.com/AdityaMishra130">View Project →</a>
-
-</td>
-
-<td width="50%">
-
-### 🎮 Game Development
-
-Experiments and projects focused on gameplay systems, mechanics and game development.
-
-**Tech:** Unity • C# • Blender
-
-<a href="https://github.com/AdityaMishra130">Explore →</a>
-
-</td>
-</tr>
-</table>
+**Stack:** Unity • C# • Blender • Unreal Engine
 
 ---
 
@@ -179,93 +166,65 @@ Experiments and projects focused on gameplay systems, mechanics and game develop
 
 <div align="center">
 
-<a href="https://leetcode.com/DexterMoser">
-<img src="https://leetcard.jacoblin.cool/DexterMoser?theme=dark&font=Poppins&ext=contest" />
-</a>
-
-</div>
-
-### ⚔️ Platforms
-
-<p align="center">
+### 🟧 LeetCode
 
 <a href="https://leetcode.com/DexterMoser">
-<img src="https://img.shields.io/badge/LeetCode-DexterMoser-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-DexterMoser-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
+<br><br>
+
+<a href="https://leetcode.com/DexterMoser">View my LeetCode profile →</a>
+
+<br><br>
+
+### 🔵 Codeforces
 
 <a href="https://codeforces.com/">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdityaMishra130&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<a href="https://github.com/AdityaMishra130">
+<img src="https://img.shields.io/github/commit-activity/y/AdityaMishra130?style=for-the-badge&label=Commits" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaMishra130&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/AdityaMishra130">
+<img src="https://img.shields.io/github/last-commit/AdityaMishra130?style=for-the-badge&label=Last%20Commit" />
+</a>
+
+<a href="https://github.com/AdityaMishra130?tab=repositories">
+<img src="https://img.shields.io/github/repo-count/AdityaMishra130?style=for-the-badge&label=Repositories" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/AdityaMishra130">
+<img src="https://img.shields.io/github/followers/AdityaMishra130?style=for-the-badge&label=Followers" />
+</a>
+
+<a href="https://github.com/AdityaMishra130">
+<img src="https://img.shields.io/github/stars/AdityaMishra130?style=for-the-badge&label=Total%20Stars" />
+</a>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AdityaMishra130&theme=tokyonight&hide_border=true"/>
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AdityaMishra130\&theme=tokyo-night\&hide_border=true)](https://github.com/AdityaMishra130)
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMishra130&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdityaMishra130&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AdityaMishra130/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-
-```text
-C++          ███████████████████░░░ 55%
-JavaScript   ████████░░░░░░░░░░░░░░ 25%
-Java         ████░░░░░░░░░░░░░░░░░░ 10%
-Python       ██░░░░░░░░░░░░░░░░░░░░  5%
-Others       ██░░░░░░░░░░░░░░░░░░░░  5%
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
@@ -274,26 +233,35 @@ Others       ██░░░░░░░░░░░░░░░░░░░░ 
 * ⭐ Reach **1800+ Codeforces**
 * 💛 Become a **LeetCode Knight**
 * 🚀 Master the **MERN Stack**
-* 🏗️ Strengthen **System Design & Backend Engineering**
+* 🏗️ Improve **System Design & Backend Engineering**
 * 🎮 Publish an **Indie Game**
 * 🌍 Contribute consistently to **Open Source**
 * 💼 Land a **Product-Based Company Role**
 
 ---
 
-# 🧩 What I'm Working On
+# 🧩 Current Focus
 
 ```text
-DSA & Competitive Programming    ████████████████████░░  85%
-MERN & Backend Development        █████████████████░░░░░  75%
-System Design                     ████████████░░░░░░░░░░  55%
-Game Development                  ██████████░░░░░░░░░░░░  45%
-Open Source                       ████████░░░░░░░░░░░░░░  35%
+Data Structures & Algorithms
+████████████████████░░  85%
+
+MERN & Backend Development
+█████████████████░░░░░  75%
+
+System Design
+████████████░░░░░░░░░░  55%
+
+Game Development
+██████████░░░░░░░░░░░░  45%
+
+Open Source
+████████░░░░░░░░░░░░░░  35%
 ```
 
 ---
 
-# ⚡ Developer Philosophy
+# ⚔️ Developer Philosophy
 
 > **"Don't just write code. Understand the pattern behind it."**
 
@@ -307,6 +275,6 @@ Open Source                       ████████░░░░░░░�
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
+⭐ **Thanks for visiting my profile!** ⭐
 
 </div>
